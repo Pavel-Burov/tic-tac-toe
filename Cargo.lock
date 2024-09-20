@@ -1661,6 +1661,8 @@ name = "tic-tac-toe"
 version = "0.1.0"
 dependencies = [
  "anchor-lang",
+ "num-derive",
+ "num-traits",
 ]
 
 [[package]]
